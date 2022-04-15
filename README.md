@@ -5,3 +5,6 @@
 
 ### DAY 2
 - Tip Calculator
+
+### DAY 3
+- Treasure Island
