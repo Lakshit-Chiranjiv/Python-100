@@ -8,3 +8,6 @@
 
 ### DAY 3
 - Treasure Island
+
+### DAY 4
+- Rock Paper Scissor Game
