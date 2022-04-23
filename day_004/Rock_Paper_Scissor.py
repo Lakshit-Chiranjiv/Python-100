@@ -30,8 +30,10 @@ while user_points<5 and computer_points<5:
     elif user_choice=='s' and computer_choice=='p':
         user_points += 1
         print("You chose SCISSOR - Computer chose PAPER --> You win this round")
-    else:
+    elif user_choice==computer_choice:
         print("Round TIED")
+    else:
+        print("Invalid Input,Enter r s or p")
     print(f"Computer = {computer_points} | You = {user_points}\n")
 
 if(computer_points>user_points):
