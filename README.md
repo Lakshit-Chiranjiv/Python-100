@@ -11,3 +11,6 @@
 
 ### DAY 4
 - Rock Paper Scissor Game
+
+### DAY 5
+- Password Generator
