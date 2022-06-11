@@ -17,3 +17,6 @@
   
 ### DAY 6
 - Calculator
+  
+### DAY 7
+- Hangman
