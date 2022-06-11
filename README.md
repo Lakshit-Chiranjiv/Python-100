@@ -20,3 +20,6 @@
   
 ### DAY 7
 - Hangman
+  
+### DAY 8
+- Caesar Cipher
