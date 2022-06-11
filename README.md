@@ -14,3 +14,6 @@
 
 ### DAY 5
 - Password Generator
+  
+### DAY 6
+- Calculator
